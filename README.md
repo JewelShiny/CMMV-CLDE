@@ -19,7 +19,7 @@ pip install -e .
 ```
 
 ## Training Data
-Data Available: [Baidu Cloud](https://pan.baidu.com/s/1Ldv-KuwoxpTzMCcn8uC4qg?pwd=81pz)
+Data Available: [Baidu Cloud](https://pan.baidu.com/s/1bEI6G605EZwY7EqYIg9JJA?pwd=uht8)
 
 
 ## Training Script
